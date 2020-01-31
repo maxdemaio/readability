@@ -3,7 +3,7 @@
 
 Computing the approximate (U.S.) grade level needed to comprehend a text using the Coleman-Liau index
 
-The Coleman-Liau index is a "readability" test represented in the following equation:
+The Coleman-Liau index is a "readability" test represented by the following equation:
 ```
 index = 0.0588 * L - 0.296 * S - 15.8
 ```
