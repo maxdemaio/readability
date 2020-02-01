@@ -53,5 +53,12 @@ int main(void)
 
 Example:
 ```console
-
+~/readability/ $ make readability
+clang -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wshadow    readability.c  -lcrypt -lcs50 -lm -o readability
+~/readability/ $ ./readability 
+Text: She had a wasp tattoo about an inch long on her neck, a tattooed loop around the biceps of her left arm and another around her left ankle. On those occasions when she had been wearing a tank top, Armansky also saw that she had a dragon tattoo on her left shoulder blade. She was a natural redhead, but she dyed her hair raven black.
+262 letter(s)
+65 word(s)
+3 sentence(s)
+Grade 7
 ```
