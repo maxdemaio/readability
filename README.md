@@ -1,5 +1,5 @@
 # readability
-<img src="images/github-logo-octocat-1.jpg" width = 250> 
+<img src="images/github-logo-octocat-1.jpg" width = 250 align="right">> 
 
 Computing the approximate (U.S.) grade level needed to comprehend a text using the Coleman-Liau index
 
